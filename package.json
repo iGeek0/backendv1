@@ -1,0 +1,28 @@
+{
+  "name": "backendv1",
+  "version": "1.0.0",
+  "description": "Primera aplicaicon de backend en Bootcamp DWFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iGeek0/backendv1.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Jesus Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iGeek0/backendv1/issues"
+  },
+  "homepage": "https://github.com/iGeek0/backendv1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
